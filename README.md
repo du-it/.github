@@ -4,13 +4,23 @@ Ich bin Java-Backend-Entwickler mit Fokus auf Spring (Boot), Microservices, REST
 Aktuell erweitere ich mein Wissen in Solidity und Blockchain-Technologien, insbesondere auf Basis von Ethereum.
 
 ## 🔧 Technologien & Sprachen
-Java • Spring Boot • REST APIs • IntelliJ • Solidity • Python • Kotlin • Docker • Kubernetes
+Java • Solidity • Python • Kotlin  
+Spring Boot • REST APIs • Microservices  
+Docker • Kubernetes • AWS • MS Azure  
+IntelliJ • DevOps CI/CD • Git • Maven • Jenkins  
+...
+
+## 🎯 Interessen
+• Software Engineering & Architektur  
+• DLT / Blockchain  
+• Trading-Strategien  
+• AI  
 
 ## 📌 Ausgewählte Projekte
 
 ### 🔗 Blockchain & Smart Contracts
 - 🧠 [Ethereum](https://github.com/du-it/Ethereum): Hauptprojekt für DLT-Experimente und Smart-Contract-Entwicklung mit Solidity.
-- 🔄 [DirectedFundraiser](https://github.com/du-it/DirectedFundraiser): Teilprojekt innerhalb des Ethereum-Repos – ein Ethererum Fundraising-Smart.
+- 🔄 [DirectedFundraiser](https://github.com/du-it/DirectedFundraiser): Teilprojekt innerhalb des Ethereum-Repos – ein Ethererum Fundraising Smart Contract.
 
 ### ☕ Java & Zertifizierung
 - 📚 [OCP Study Guide](https://github.com/du-it/OCP-Oracle-Certified-Professional-Java-SE-21-1Z0-839-Open-Study-Guide): Vorbereitung auf die Java SE 21 Zertifizierung mit strukturierten Lerninhalten und Beispielen.
