@@ -14,8 +14,9 @@ Java • Spring Boot • REST APIs • IntelliJ • Solidity • Python • Kotl
 
 ### ☕ Java & Zertifizierung
 - 📚 [OCP Study Guide](https://github.com/du-it/OCP-Oracle-Certified-Professional-Java-SE-21-1Z0-839-Open-Study-Guide): Vorbereitung auf die Java SE 21 Zertifizierung mit strukturierten Lerninhalten und Beispielen.
+- <!--
 - 🚍 [busroute](https://github.com/du-it/busroute): Java-Projekt zur Routenplanung im ÖPNV mit Fokus auf algorithmische Optimierung und REST-Schnittstellen.
-
+-->
 ## 📫 Kontakt
 📧 d.ulrich@du-it.de  
 🌐 [XING-Profil](https://www.xing.com/profile/Dirk_Ulrich)  
